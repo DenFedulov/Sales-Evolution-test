@@ -10,7 +10,7 @@
       "ru",
       "en"
     ],
-    "installation": false,
+    "installation": true,
     "support": {
       "link": "https://www.amocrm.com",
       "email": "support@amocrm.com"
@@ -29,5 +29,8 @@
       ]
     },
     "tour_description": "widget.tour_description"
+  },
+  "settings": {
+    
   }
 }
